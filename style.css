@@ -1,0 +1,20 @@
+
+            h2{
+                background:rgb(253, 244, 111); 
+            }
+
+.btn{
+     text-decoration: none;
+     background-color:rgb(253, 244, 111); 
+     color: rgb(0, 0, 0);
+     font-size: 35px;
+     padding: 8px 10px;
+     border-radius: 20px;
+     border: rgb(0, 0, 0)2px solid;
+}
+.block{
+    background-color:rgb(199, 147, 255);
+}
+.image{
+    width: 20%;
+}
